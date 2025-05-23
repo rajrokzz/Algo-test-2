@@ -4,5 +4,5 @@ pandas
 numpy
 scikit-learn
 statsmodels
-prophet
-tensorflow
+prophet==1.1.1
+tensorflow-cpu==2.11.0
